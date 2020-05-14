@@ -1,0 +1,7 @@
+{
+  "name": "fcm-ios-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
